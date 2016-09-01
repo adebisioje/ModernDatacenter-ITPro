@@ -2,7 +2,7 @@
 Modern Datacenter (IT Pro)
 
 ## Directory
-* Identity and Access Management
 * Compute
+* Identity and Access Management
 * Networking
 * Storage and Disaster Recovery
